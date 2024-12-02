@@ -1,0 +1,6 @@
+[core]
+    remote = geophysics-datasets-registry
+['remote "gemstiptree"']
+    url = gdrive://1Iy6ZAEaYPSPcrC6b7W_yxL8oiO83n-hb
+['remote "geophysics-datasets-registry"']
+    url = gdrive://18jisSCOlmNByuXJeW9mXdDBvgNS1siul
